@@ -1,2 +1,0 @@
-"sample data v1" 
-"sample data v2" 
